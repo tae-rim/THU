@@ -1,0 +1,9 @@
+# 절대 올리면 안 되는 것들
+venv/
+.venv/
+node_modules/
+__pycache__/
+*.pyc
+.env
+dist/
+build/
